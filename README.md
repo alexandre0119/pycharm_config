@@ -1,1 +1,0 @@
-# notes_Alex_Python
