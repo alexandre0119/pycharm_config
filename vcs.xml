@@ -3,23 +3,7 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@github.com:alexandre0119/notes-python.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:alexandre0119/pycharm_config.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:alexandre0119/awesome.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:alexandre0119/notes_Python.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@github.com:alexandre0119/flasky.git" />
+          <option name="url" value="https://github.com/alexandre0119/django.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
