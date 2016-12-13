@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Project 'currentConsumption'" />
+    <option name="defaultScopeName" value="Project 'currentConsumption'" />
+    <option name="SEARCH_SCOPE" value="Project 'currentConsumption'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
