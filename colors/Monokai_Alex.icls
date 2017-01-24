@@ -3,10 +3,9 @@
     <property name="created">2016-11-14T23:22:38</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2016-11-14T23:22:42</property>
+    <property name="modified">2017-01-23T23:36:25</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -295,6 +294,13 @@
       <value>
         <option name="FOREGROUND" value="fd971f" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="4b65ff" />
+        <option name="EFFECT_COLOR" value="4b65ff" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -1036,6 +1042,11 @@
       <value>
         <option name="FOREGROUND" value="66d9ef" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="4b65ff" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
