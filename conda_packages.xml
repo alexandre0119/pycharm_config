@@ -881,6 +881,7 @@
         <entry key="r-roxygen2" value="5.0.1" />
         <entry key="r-rpart" value="4.1_10" />
         <entry key="r-rprojroot" value="1.1" />
+        <entry key="r-rsconnect" value="0.7" />
         <entry key="r-rserve" value="1.7_3" />
         <entry key="r-rsqlite" value="1.1_1" />
         <entry key="r-rstan" value="2.12.1" />
@@ -9345,6 +9346,13 @@
             </list>
           </value>
         </entry>
+        <entry key="r-rsconnect">
+          <value>
+            <list>
+              <option value="0.7" />
+            </list>
+          </value>
+        </entry>
         <entry key="r-rserve">
           <value>
             <list>
@@ -11233,6 +11241,6 @@
     <option name="CONDA_CHANNELS">
       <set />
     </option>
-    <option name="LAST_TIME_CHECKED" value="1486450782652" />
+    <option name="LAST_TIME_CHECKED" value="1486616247127" />
   </component>
 </application>
