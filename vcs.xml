@@ -46,12 +46,8 @@
           <option name="url" value="https://github.com/REMitchell/python-scraping.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/alexandre0119/web_scraping_with_python.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Alex\PycharmProjects" />
+    <option name="cloneParentDir" value="C:\Users\alexwang\PycharmProjects" />
   </component>
 </application>
