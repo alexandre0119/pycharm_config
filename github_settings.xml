@@ -1,6 +1,13 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="alexandre0119@gmail.com" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="11694116-9d0e-4619-a606-40b1aea5b307" name="alexandre0119@gmail.com">
+      <server host="github.com" />
+    </account>
+    <account id="d3489bcd-262a-431d-a706-4cff56e86257" name="alexandre0119">
+      <server host="github.com" />
+    </account>
+    <account id="71c1ec5e-e2f0-456e-9ae3-84551115f18e" name="alexandre0119">
+      <server host="github.com" />
+    </account>
   </component>
 </application>

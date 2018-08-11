@@ -82,8 +82,12 @@
           <option name="url" value="https://github.com/alexandre0119/pymongo_university.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="alexandre0119" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Alex\PycharmProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
   </component>
 </application>
